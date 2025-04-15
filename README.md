@@ -66,7 +66,7 @@ Have ideas for improvements or want to add more service sections? Fork and contr
 
 1. **Fork the project**  
 
-Forking the repository is the first step to make a copy of the project under your account. Click Here: [MoveIt](https://github.com/farankhan125/Move-it))
+Forking the repository is the first step to make a copy of the project under your account. Click Here: [MoveIt](https://github.com/farankhan125/Move-it)
 
 2. **Clone your forked repository**
 
