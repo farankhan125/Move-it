@@ -35,11 +35,11 @@ You can run this project locally in just a few steps:
 
 1. **Clone the repository**
 ```bash
-add
+git clone https://github.com/farankhan125/Move-it.git
 ```
 2. **Navigate to the project folder**
 ```bash
-cd add
+cd Move-it
 ```
 3. **Open the folder in your IDE**
 ```bash
@@ -60,21 +60,21 @@ That's it! 🎉 No build tools or dependencies required.
 
 ## 🧑‍💻 Contributing
 
-Got a cool idea or want to add more cities? Feel free to fork and contribute!
+Have ideas for improvements or want to add more service sections? Fork and contribute!
 
 1. **Fork the project**  
 
-Forking the repository is the first step to make a copy of the project under your account. Click Here: [The Cityscape Carousel](https://github.com/farankhan125/The-Cityscape-Carousel.git)
+Forking the repository is the first step to make a copy of the project under your account. Click Here: [MoveIt](https://github.com/farankhan125/Move-it))
 
 2. **Clone your forked repository**
 
 Make sure to replace (your-username) with your actual GitHub username, so it correctly points to your forked version.
 ```bash
-git clone https://github.com/your-username/The-Cityscape-Carousel.git
+git clone https://github.com/your-username/Move-it.git
 ```
 3. **Navigate into the project folder**
 ```bash
-cd The-Cityscape-Carousel
+cd Move-it
 ```
 4. **Open the folder in your IDE**
 ```bash
