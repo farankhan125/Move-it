@@ -17,7 +17,7 @@ MoveIt is a simple, clean, and responsive website for house shifting services.
 
 Want to see it live? Click the link below to visit the website:
 
-[The Cityscape Carousel](https://farankhan125.github.io/The-Cityscape-Carousel/)
+[MoveIt](https://farankhan125.github.io/Move-it/)
 
 ---
 
