@@ -56,6 +56,8 @@ That's it! 🎉 No build tools or dependencies required.
 
 ## 📸 Demo Preview
 
+![Image](img/img1.png)
+
 ---
 
 ## 🧑‍💻 Contributing
